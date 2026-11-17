@@ -1,0 +1,2 @@
+model,device,precision,image_size,runs,avg_total_latency_ms,avg_inference_latency_ms,fps
+yolov8n.pt,CPU,FP32,640,30,100.57,86.25,9.94
