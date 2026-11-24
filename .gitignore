@@ -6,3 +6,5 @@ __pycache__/
 *.engine
 runs/
 .env
+datasets/coco/
+datasets/benchmark_images/
